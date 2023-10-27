@@ -6,7 +6,7 @@ public class Point {
 
     @Override
     public String toString() {
-        return "Punkt(" + x + ", " + y + ")";
+        return "Punkt (" + x + ", " + y + ")";
 
     }
 
